@@ -3,6 +3,9 @@ Using LLM for synthetic data generation for ML training.
 
 This repository provides a tool to generate synthetic medical billing datasets using a Large Language Model (LLM). The generated data closely resembles real-world billing records, making it ideal for machine learning training, data analysis, or research purposes. The repository also includes tools to visualize and analyze the generated data.
 
+## Skills:
+<img src="https://img.shields.io/badge/LLMs-3776AB?style=flat-square&logo=ML&logoColor=white" alt="LLMs"> <img src="https://img.shields.io/badge/Synthetic Data Generation-3776AB?style=flat-square&logo=finetuning&logoColor=white" alt="Synthetic Data"> <img src="https://img.shields.io/badge/Data Analytics-3776AB?style=flat-square&logo=Data&logoColor=white" alt="Data Analytics">
+
 ## Features
 Synthetic Data Generation: Mimics patterns and distributions of real medical billing data.
 Schema Validation: Ensures each generated record conforms to a predefined schema using Pydantic.
