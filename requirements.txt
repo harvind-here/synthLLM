@@ -2,3 +2,6 @@ langchain
 langchain-groq
 pandas
 pydantic
+matplotlib
+seaborn
+scipy
