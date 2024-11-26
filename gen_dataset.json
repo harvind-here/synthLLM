@@ -1,0 +1,82 @@
+[
+  {
+    "patient_id": 123456,
+    "patient_name": "David Thompson",
+    "diagnosis_code": "I10",
+    "procedure_code": "99214",
+    "total_charge": 240.0,
+    "insurance_claim_amount": 192.0
+  },
+  {
+    "patient_id": 987654,
+    "patient_name": "Jessica Martin",
+    "diagnosis_code": "I10.0",
+    "procedure_code": "99214",
+    "total_charge": 260.0,
+    "insurance_claim_amount": 208.0
+  },
+  {
+    "patient_id": 890123,
+    "patient_name": "Lauren Martin",
+    "diagnosis_code": "K92.8",
+    "procedure_code": "90832",
+    "total_charge": 260.0,
+    "insurance_claim_amount": 208.0
+  },
+  {
+    "patient_id": 901234,
+    "patient_name": "David Kim",
+    "diagnosis_code": "I10",
+    "procedure_code": "99214",
+    "total_charge": 260.0,
+    "insurance_claim_amount": 208.0
+  },
+  {
+    "patient_id": 901234,
+    "patient_name": "Olivia Martin",
+    "diagnosis_code": "K92.8",
+    "procedure_code": "85025",
+    "total_charge": 240.0,
+    "insurance_claim_amount": 192.0
+  },
+  {
+    "patient_id": 901234,
+    "patient_name": "David Kim",
+    "diagnosis_code": "J45.909",
+    "procedure_code": "99213",
+    "total_charge": 240.0,
+    "insurance_claim_amount": 192.0
+  },
+  {
+    "patient_id": 987654,
+    "patient_name": "Jessica Martin",
+    "diagnosis_code": "M54.3",
+    "procedure_code": "99214",
+    "total_charge": 260.0,
+    "insurance_claim_amount": 208.0
+  },
+  {
+    "patient_id": 123456,
+    "patient_name": "Julia Hall",
+    "diagnosis_code": "I10.9",
+    "procedure_code": "99214",
+    "total_charge": 260.0,
+    "insurance_claim_amount": 208.0
+  },
+  {
+    "patient_id": 123456,
+    "patient_name": "Jessica White",
+    "diagnosis_code": "R07.0",
+    "procedure_code": "82542",
+    "total_charge": 200.0,
+    "insurance_claim_amount": 160.0
+  },
+  {
+    "patient_id": 123456,
+    "patient_name": "Jessica White",
+    "diagnosis_code": "K92.0",
+    "procedure_code": "93230",
+    "total_charge": 290.0,
+    "insurance_claim_amount": 232.0
+  }
+]

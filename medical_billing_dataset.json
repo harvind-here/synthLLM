@@ -1,0 +1,82 @@
+[
+  {
+    "patient_id": "345678",
+    "patient_name": "Emily Johnson",
+    "diagnosis_code": "J45.909",
+    "procedure_code": "99213",
+    "total_charge": "180.0",
+    "insurance_claim_amount": "144.0"
+  },
+  {
+    "patient_id": "456789",
+    "patient_name": "Michael Davis",
+    "diagnosis_code": "M25.512",
+    "procedure_code": "93000",
+    "total_charge": "250.0",
+    "insurance_claim_amount": "200.0"
+  },
+  {
+    "patient_id": "567890",
+    "patient_name": "Sarah Taylor",
+    "diagnosis_code": "I10",
+    "procedure_code": "99204",
+    "total_charge": "220.0",
+    "insurance_claim_amount": "176.0"
+  },
+  {
+    "patient_id": "678901",
+    "patient_name": "Kevin Brown",
+    "diagnosis_code": "M54.2",
+    "procedure_code": "71045",
+    "total_charge": "280.0",
+    "insurance_claim_amount": "224.0"
+  },
+  {
+    "patient_id": "789012",
+    "patient_name": "Rachel Lee",
+    "diagnosis_code": "J20.0",
+    "procedure_code": "86001",
+    "total_charge": "300.0",
+    "insurance_claim_amount": "240.0"
+  },
+  {
+    "patient_id": "890123",
+    "patient_name": "Daniel White",
+    "diagnosis_code": "E66.9",
+    "procedure_code": "99215",
+    "total_charge": "320.0",
+    "insurance_claim_amount": "256.0"
+  },
+  {
+    "patient_id": "901234",
+    "patient_name": "Olivia Martin",
+    "diagnosis_code": "J44.9",
+    "procedure_code": "93005",
+    "total_charge": "200.0",
+    "insurance_claim_amount": "160.0"
+  },
+  {
+    "patient_id": "012345",
+    "patient_name": "William Harris",
+    "diagnosis_code": "M24.512",
+    "procedure_code": "71010",
+    "total_charge": "180.0",
+    "insurance_claim_amount": "144.0"
+  },
+  {
+    "patient_id": "123789",
+    "patient_name": "Ava Thompson",
+    "diagnosis_code": "I11.9",
+    "procedure_code": "99202",
+    "total_charge": "120.0",
+    "insurance_claim_amount": "96.0"
+  },
+  {
+    "patient_id": "234901",
+    "patient_name": "Benjamin Walker",
+    "diagnosis_code": "J45.52",
+    "procedure_code": "86003",
+    "total_charge": "250.0",
+    "insurance_claim_amount": "200.0"
+  }
+]
